@@ -1,0 +1,2 @@
+# teateasnet
+testnet
